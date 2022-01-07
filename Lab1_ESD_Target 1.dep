@@ -1,0 +1,12 @@
+Dependencies for Project 'Lab1_ESD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x61935A86)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Keil\ARM\RV31\INC -I D:\Keil\ARM\CMSIS\Include -I D:\Keil\ARM\Inc\Philips --list "LPC2300.lst" --xref -o "LPC2300.o" --depend "LPC2300.d")
+F (.\Blinky.c)(0x61935A7E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC -I D:\Keil\ARM\CMSIS\Include -I D:\Keil\ARM\Inc\Philips -o "blinky.o" --omf_browse "blinky.crf" --depend "blinky.d")
+I (D:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x516EA50E)
+I (D:\Keil\ARM\Inc\Philips\LPC23xx.H)(0x5086BE16)
+I (LCD.h)(0x61935A84)
+F (.\IRQ.c)(0x6194EF26)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC -I D:\Keil\ARM\CMSIS\Include -I D:\Keil\ARM\Inc\Philips -o "irq.o" --omf_browse "irq.crf" --depend "irq.d")
+I (D:\Keil\ARM\Inc\Philips\LPC23xx.H)(0x5086BE16)
+I (LCD.h)(0x61935A84)
+I (D:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x516EA50E)
+F (.\LCD_4bit.c)(0x61935A84)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC -I D:\Keil\ARM\CMSIS\Include -I D:\Keil\ARM\Inc\Philips -o "lcd_4bit.o" --omf_browse "lcd_4bit.crf" --depend "lcd_4bit.d")
+I (D:\Keil\ARM\Inc\Philips\LPC23xx.H)(0x5086BE16)
